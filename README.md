@@ -1,4 +1,4 @@
-# Mass-Convert-PAA-PNG-DeODOP3D
+# Mass-Convert-PAA-PNG-DeODOL3D
 
 Converter from PAA to PNG using DeODOP3D
 </br>
