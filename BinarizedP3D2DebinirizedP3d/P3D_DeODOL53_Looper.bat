@@ -1,6 +1,6 @@
 @echo off 
 
-set current_directory="C:/Users/Root/Downloads/Rever/"
+set current_directory="D:/Github/Mass-Convert-PAA-PNG-DeODOL3D/BinarizedP3D2DebinirizedP3d/"
 
 cd %current_directory%
 
